@@ -1,2 +1,2 @@
 # Threads_App
-this is a threads app clone done with the help of js mastery youtube channel
+this is a google drive app clone done with the help of js mastery youtube channel
