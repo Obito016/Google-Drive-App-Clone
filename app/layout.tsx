@@ -9,7 +9,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Drive Clone",
+  title: "Store It",
   description: "StoreIt - the only storage solution you need",
 };
 
